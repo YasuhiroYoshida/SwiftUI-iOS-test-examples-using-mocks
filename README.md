@@ -1,2 +1,2 @@
-# iOS-test-practice-app-using-mocks
-A sample iOS app to practice writing tests focusing on using mocks.
+# SwiftUI-iOS-test-examples-using-mocks
+A sample SwiftUI iOS app to practice writing tests using mocks.
